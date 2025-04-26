@@ -8,6 +8,6 @@ git clone https://github.com/enzohyperx/qtile.git
 yay -S nerd-fonts
 
 ![captura1](https://github.com/user-attachments/assets/7ed9cc8f-e7be-4339-bf4f-225ae70197cb)
-![captura2](https://github.com/user-attachments/assets/71284d1a-86b8-4553-a51b-2e92722a1aea)
+
 
 
