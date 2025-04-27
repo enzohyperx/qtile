@@ -10,8 +10,9 @@ yay -S nerd-fonts
 # IMPORTANT:
 After downloading the repository and moving each file to its place, change the Rofi home directory, this is located in the config.py file, line 49 of the code
 
+![screenshot](https://github.com/user-attachments/assets/ef385547-4e5b-4b53-93e1-4559c464bd3f)
 
-![captura1](https://github.com/user-attachments/assets/7ed9cc8f-e7be-4339-bf4f-225ae70197cb)
+
 
 ![furrologo-removebg-preview](https://github.com/user-attachments/assets/fd34b859-40cd-4522-88bf-acce4f3854be)
 
