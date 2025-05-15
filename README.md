@@ -8,7 +8,7 @@ git clone https://github.com/enzohyperx/qtile.git
 yay -S nerd-fonts
 
 # IMPORTANT:
-After downloading the repository and moving each file to its place, change the Rofi home directory, this is located in the config.py file, line 49 of the code
+After downloading the repository and moving each file to its place, change the Rofi home directory, this is located in the config.py file, line 46 of the code
 
 
 
