@@ -1,0 +1,102 @@
+alumno@delbrou:~$ nmap -A 192.168.2.0/24
+Starting Nmap 7.80 ( https://nmap.org ) at 2025-05-19 12:46 -03
+Nmap scan report for km8134cd.utu.edu.uy (192.168.2.3)
+Host is up (0.00030s latency).
+All 1000 scanned ports on km8134cd.utu.edu.uy (192.168.2.3) are closed
+
+Nmap scan report for labtres.utu.edu.uy (192.168.2.18)
+Host is up (0.00029s latency).
+All 1000 scanned ports on labtres.utu.edu.uy (192.168.2.18) are closed
+
+Nmap scan report for 964_planeamiento.utu.edu.uy (192.168.2.25)
+Host is up (0.00029s latency).
+All 1000 scanned ports on 964_planeamiento.utu.edu.uy (192.168.2.25) are closed
+
+Nmap scan report for 192.168.2.40
+Host is up (0.00027s latency).
+All 1000 scanned ports on 192.168.2.40 are closed
+
+Nmap scan report for 192.168.2.54
+Host is up (0.00032s latency).
+All 1000 scanned ports on 192.168.2.54 are closed
+
+Nmap scan report for windows-phone.utu.edu.uy (192.168.2.59)
+Host is up (0.00030s latency).
+All 1000 scanned ports on windows-phone.utu.edu.uy (192.168.2.59) are closed
+
+Nmap scan report for windows-phone.utu.edu.uy (192.168.2.67)
+Host is up (0.00027s latency).
+All 1000 scanned ports on windows-phone.utu.edu.uy (192.168.2.67) are closed
+
+Nmap scan report for 878_finan.utu.edu.uy (192.168.2.104)
+Host is up (0.00055s latency).
+All 1000 scanned ports on 878_finan.utu.edu.uy (192.168.2.104) are closed
+
+Nmap scan report for 192.168.2.118
+Host is up (0.00026s latency).
+All 1000 scanned ports on 192.168.2.118 are closed
+
+Nmap scan report for 192.168.2.119
+Host is up (0.00032s latency).
+All 1000 scanned ports on 192.168.2.119 are closed
+
+Nmap scan report for 192.168.2.142
+Host is up (0.00031s latency).
+All 1000 scanned ports on 192.168.2.142 are closed
+
+Nmap scan report for user (192.168.2.145)
+Host is up (0.00025s latency).
+All 1000 scanned ports on user (192.168.2.145) are closed
+
+Nmap scan report for windows-phone.utu.edu.uy (192.168.2.163)
+Host is up (0.00055s latency).
+All 1000 scanned ports on windows-phone.utu.edu.uy (192.168.2.163) are closed
+
+Nmap scan report for km8134ce.utu.edu.uy (192.168.2.168)
+Host is up (0.00031s latency).
+All 1000 scanned ports on km8134ce.utu.edu.uy (192.168.2.168) are closed
+
+Nmap scan report for pc-hp.utu.edu.uy (192.168.2.175)
+Host is up (0.00030s latency).
+All 1000 scanned ports on pc-hp.utu.edu.uy (192.168.2.175) are closed
+
+Nmap scan report for carmen-pc.utu.edu.uy (192.168.2.180)
+Host is up (0.00054s latency).
+All 1000 scanned ports on carmen-pc.utu.edu.uy (192.168.2.180) are closed
+
+Nmap scan report for 706_concursos.utu.edu.uy (192.168.2.184)
+Host is up (0.00028s latency).
+All 1000 scanned ports on 706_concursos.utu.edu.uy (192.168.2.184) are closed
+
+Nmap scan report for 707_financiero.utu.edu.uy (192.168.2.185)
+Host is up (0.00032s latency).
+All 1000 scanned ports on 707_financiero.utu.edu.uy (192.168.2.185) are closed
+
+Nmap scan report for 889_concursos.utu.edu.uy (192.168.2.192)
+Host is up (0.00031s latency).
+All 1000 scanned ports on 889_concursos.utu.edu.uy (192.168.2.192) are closed
+
+Nmap scan report for 370_juridica.utu.edu.uy (192.168.2.213)
+Host is up (0.00028s latency).
+All 1000 scanned ports on 370_juridica.utu.edu.uy (192.168.2.213) are closed
+
+Nmap scan report for 831_dirfincont.utu.edu.uy (192.168.2.224)
+Host is up (0.00047s latency).
+All 1000 scanned ports on 831_dirfincont.utu.edu.uy (192.168.2.224) are closed
+
+Nmap scan report for pipi.utu.edu.uy (192.168.2.227)
+Host is up (0.00030s latency).
+All 1000 scanned ports on pipi.utu.edu.uy (192.168.2.227) are closed
+
+Nmap scan report for alumno161.utu.edu.uy (192.168.2.231)
+Host is up (0.00029s latency).
+All 1000 scanned ports on alumno161.utu.edu.uy (192.168.2.231) are closed
+
+Nmap scan report for alumno175.utu.edu.uy (192.168.2.235)
+Host is up (0.00032s latency).
+All 1000 scanned ports on alumno175.utu.edu.uy (192.168.2.235) are closed
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (24 hosts up) scanned in 12.99 seconds
+alumno@delbrou:~$ 
+
